@@ -1,0 +1,15 @@
+body {
+    background-color: #c5e2db;
+}
+
+.photos {
+    height: 100vh;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+img {
+    margin: 1rem;
+}
